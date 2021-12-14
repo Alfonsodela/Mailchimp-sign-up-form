@@ -38,7 +38,8 @@ a {
 }
 
 .form__password--items {
-  display: flex;
+  display: grid;
+  grid-template-columns: auto auto;
 }
 
 .form__signup {
