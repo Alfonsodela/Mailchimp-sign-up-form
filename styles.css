@@ -40,6 +40,7 @@ a {
 .form__password--items {
   display: grid;
   grid-template-columns: auto auto;
+  justify-items: start;
 }
 
 .form__signup {
